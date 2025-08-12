@@ -685,9 +685,11 @@ strong {
   OUR MENU              
 -----------------------------------------*/
 .menu-section {
-  background-image: url('happy-waitress-giving-coffee-customers-while-serving-them-coffee-shop.jpg');
+ background-color: #d4ebc3;
   background-repeat: no-repeat;
   background-size: cover;
+  background-color: rgba(0, 0, 0, 0.3);
+  background-blend-mode: overla
 }
 
 .menu-block-wrap {
@@ -1255,6 +1257,7 @@ h1, h2, h3, h4, h5, h6, p, span, a {
     min-width: 80px;
     text-align: left;
 }
+
 
 
 
