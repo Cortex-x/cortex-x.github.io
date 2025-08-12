@@ -685,7 +685,7 @@ strong {
   OUR MENU              
 -----------------------------------------*/
 .menu-section {
-  background-image: url('../happy-waitress-giving-coffee-customers-while-serving-them-coffee-shop.jpg');
+  background-image: url('happy-waitress-giving-coffee-customers-while-serving-them-coffee-shop.jpg');
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -761,7 +761,7 @@ strong {
 }
 
 .reviews-block-image-wrap {
-  background-image: url('../mid-section-waitress-wiping-espresso-machine-with-napkin-cafa-c.jpg');
+  background-image: url('mid-section-waitress-wiping-espresso-machine-with-napkin-cafa-c.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -795,7 +795,7 @@ strong {
   BOOKING SECTION              
 -----------------------------------------*/
 .booking-section {
-  background-image: url('../young-female-barista-wear-face-mask-serving-take-away-hot-coffee-paper-cup-consumer-cafe.jpg');
+  background-image: url('young-female-barista-wear-face-mask-serving-take-away-hot-coffee-paper-cup-consumer-cafe.jpg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -1223,14 +1223,14 @@ h1, h2, h3, h4, h5, h6, p, span, a {
 
 @font-face {
   font-family: 'Mahoor';
-  src: url('../Mahoor[CNTR\,wght].woff2') format('woff2');
+  src: url('Mahoor[CNTR\,wght].woff2') format('woff2');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'snap';
-  src: url('../Snapp\ Web\ Regular.ttf') format('truetype');
+  src: url('Snapp\ Web\ Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
@@ -1255,5 +1255,6 @@ h1, h2, h3, h4, h5, h6, p, span, a {
     min-width: 80px;
     text-align: left;
 }
+
 
 
